@@ -1,0 +1,15 @@
+C:\Users\MONSTER\GitProject\stringMetot\bin\Debug\net7.0\stringMetot.exe
+C:\Users\MONSTER\GitProject\stringMetot\bin\Debug\net7.0\stringMetot.deps.json
+C:\Users\MONSTER\GitProject\stringMetot\bin\Debug\net7.0\stringMetot.runtimeconfig.json
+C:\Users\MONSTER\GitProject\stringMetot\bin\Debug\net7.0\stringMetot.dll
+C:\Users\MONSTER\GitProject\stringMetot\bin\Debug\net7.0\stringMetot.pdb
+C:\Users\MONSTER\GitProject\stringMetot\obj\Debug\net7.0\stringMetot.csproj.AssemblyReference.cache
+C:\Users\MONSTER\GitProject\stringMetot\obj\Debug\net7.0\stringMetot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\GitProject\stringMetot\obj\Debug\net7.0\stringMetot.AssemblyInfoInputs.cache
+C:\Users\MONSTER\GitProject\stringMetot\obj\Debug\net7.0\stringMetot.AssemblyInfo.cs
+C:\Users\MONSTER\GitProject\stringMetot\obj\Debug\net7.0\stringMetot.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\GitProject\stringMetot\obj\Debug\net7.0\stringMetot.dll
+C:\Users\MONSTER\GitProject\stringMetot\obj\Debug\net7.0\refint\stringMetot.dll
+C:\Users\MONSTER\GitProject\stringMetot\obj\Debug\net7.0\stringMetot.pdb
+C:\Users\MONSTER\GitProject\stringMetot\obj\Debug\net7.0\stringMetot.genruntimeconfig.cache
+C:\Users\MONSTER\GitProject\stringMetot\obj\Debug\net7.0\ref\stringMetot.dll
